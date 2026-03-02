@@ -30,7 +30,7 @@ Developed a Streamlit-based cybersecurity assessment platform aligned to the Roh
 
 - <b>Anaconda Navigator | Jupyter Notebook | Python Virtual Environment</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Streamlit Dashboard:</h2>
 
 <p align="center">
 Hygiene Score & Recommendation Panel: <br/>
