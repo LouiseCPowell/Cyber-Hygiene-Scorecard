@@ -42,11 +42,11 @@ Ai Prediction & Probability Chart:  <br/>
 <br />
 <br />
 Anomaly Detection Metrics: <br/>
-<img src="https://Anomalydetection.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<img src="https://anomalydetection.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 <br />
 <br />
 Anomaly Detection Metrics :  <br/>
-<img src="https://AnomalyDetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<img src="https://anomalydetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 </p>
 
 <!--
