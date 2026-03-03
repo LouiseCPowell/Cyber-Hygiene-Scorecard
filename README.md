@@ -34,8 +34,8 @@ Developed a Streamlit-based cybersecurity assessment platform aligned to the Roh
 
 <p align="center">
 Hygiene Score & Recommendation Panel: <br/>
-<img src="C:\Users\louis\Pictures\Cyber Hygiene Scorecard\hygienescore&recommendationpanel.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
-<br />
+<img src="C:\Users\louis\Pictures\Cyber Hygiene Scorecard\hygienescoreandrecommendationpanel.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<br /
 <br />
 Ai Prediction & Probability Chart:  <br/>
 <mg src="C:\Users\louis\Pictures\Cyber Hygiene Scorecard\aiprediction&probabilitychart.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
