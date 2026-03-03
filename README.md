@@ -38,15 +38,15 @@ Hygiene Score & Recommendation Panel: <br/>
 <br />
 <br />
 Ai Prediction & Probability Chart:  <br/>
-<img src="C:\Users\louis\Pictures\aiprediction&probabilitychart.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<mg src="C:\Users\louis\Pictures\Cyber Hygiene Scorecard\aiprediction&probabilitychart.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 <br />
 <br />
 Anomaly Detection Metrics: <br/>
-<img src="C:\Users\louis\Pictures\anomalydetection.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<mg src="C:\Users\louis\Pictures\Cyber Hygiene Scorecard\anomalydetection.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 <br />
 <br />
 Anomaly Detection Metrics :  <br/>
-<img src="C:\Users\louis\Pictures\anomalydetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<mg src="C:\Users\louis\Pictures\Cyber Hygiene Scorecard\anomalydetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 </p>
 
 <h2>Certifications:</h2>
