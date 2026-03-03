@@ -34,19 +34,19 @@ Developed a Streamlit-based cybersecurity assessment platform aligned to the Roh
 
 <p align="center">
 Hygiene Score & Recommendation Panel: <br/>
-<img src="https:/hygienescore&recommendationpanel.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<img src="C:\Users\louis\Pictures\hygienescore&recommendationpanel.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 <br />
 <br />
 Ai Prediction & Probability Chart:  <br/>
-<img src="https://aiprediction&probabilitychart.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<img src="C:\Users\louis\Pictures\aiprediction&probabilitychart.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 <br />
 <br />
 Anomaly Detection Metrics: <br/>
-<img src="https://anomalydetection.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<img src="C:\Users\louis\Pictures\anomalydetection.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 <br />
 <br />
 Anomaly Detection Metrics :  <br/>
-<img src="https://anomalydetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
+<img src="C:\Users\louis\Pictures\anomalydetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 </p>
 
 <h2>Certifications:</h2>
