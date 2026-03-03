@@ -49,6 +49,10 @@ Anomaly Detection Metrics :  <br/>
 <img src="https://anomalydetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 </p>
 
+<h2>Certifications:</h2>
+<b>11th International Conference on Cybersecurity and Intelligent Networks and Systems 2025</b> 
+https://www.linkedin.com/in/louisecpowell/details/honors/
+
 <!--
  ```diff
 - text in red
