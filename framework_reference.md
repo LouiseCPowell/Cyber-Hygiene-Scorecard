@@ -1,7 +1,10 @@
 <h1>Framework References for this Project</h1>
 <b></b>NCSC Cyber Assessment Framework (CAF)</b>
+
 <b>URL: https://www.ncsc.gov.uk/collection/cyber-assessment-framework</b>
+
 <b>Use: Sectioned Mappped to questionnaire categories to assess cyber hygiene</b>
+
 <b>Note: Framework used as reference only; all code is original</b>
 
 <h1>Extended The Rohan Model CGF Framework</h1>
