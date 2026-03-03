@@ -51,7 +51,8 @@ Anomaly Detection Metrics :  <br/>
 
 <h2>Certifications:</h2>
 <b>11th International Conference on Cybersecurity and Intelligent Networks and Systems 2025</b> 
-https://www.linkedin.com/in/louisecpowell/details/honors/
+
+🔗 ([https://linkedin.com/in/louisecpowell/details/honors])
 
 <!--
  ```diff
