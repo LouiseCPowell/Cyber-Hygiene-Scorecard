@@ -49,7 +49,7 @@ Anomaly Detection Metrics :  <br/>
 <mg src="C:\Users\louis\Pictures\Cyber Hygiene Scorecard\anomalydetection1.png" height="80%" width="80%" alt="Streamlit Dashboard"/>
 </p>
 
-<h2>Certifications:</h2>
+<h2>Certification:</h2>
 <b>11th International Conference on Cybersecurity and Intelligent Networks and Systems 2025</b> 
 
 [<img align="left" alt="LouiseCPowell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
