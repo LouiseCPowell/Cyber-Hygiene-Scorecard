@@ -2,8 +2,10 @@
 <b></b>NCSC Cyber Assessment Framework (CAF)</b>
 
 <b>URL: https://www.ncsc.gov.uk/collection/cyber-assessment-framework</b>
-<b>Use: Sectioned Mappped to questionnaire categories to assess cyber hygiene</b>
-<b>Note: Framework used as reference only; all code is original</b>
+
+<b>USE: Sectioned Mappped to questionnaire categories to assess cyber hygiene</b>
+
+<b>NOTE: Framework used as reference only; all code is original</b>
 
 <h1>Extended The Rohan Model CGF Framework</h1>
 <b>This respository extends the Rohan Model & CGF framework originality developed by Dr. Nisha Rawindaran Nair. 
